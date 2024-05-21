@@ -1,16 +1,16 @@
-analytics.snapchat.com app-analytics.snapchat.com 
-usc.adserver.snapads.com 
-snapads.com 
-app-analytics-v2.snapchat.com 
-asia-southeast1-gcp.api.snapchat.com 
-pica.aeonlucid.com 
-Us-central1-gcp.api.snapchat.com 
-Usc.adserver.snapads.com 
-Geofilters-api.snapchat.com 
-Cognac-prod.appspot.com 
-Ase.adserver.snapads.com 
-Tr.snapchat.com 
-Loc.sc-jpl.com
-Storage.googleapis.com 
-Snapchat-proxy.appspot.com
+0.0.0.0 analytics.snapchat.com app-analytics.snapchat.com 
+0.0.0.0 usc.adserver.snapads.com 
+0.0.0.0 snapads.com 
+0.0.0.0 app-analytics-v2.snapchat.com 
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com 
+0.0.0.0 pica.aeonlucid.com 
+0.0.0.0 Us-central1-gcp.api.snapchat.com 
+0.0.0.0 Usc.adserver.snapads.com 
+0.0.0.0 Geofilters-api.snapchat.com 
+0.0.0.0 Cognac-prod.appspot.com 
+0.0.0.0 Ase.adserver.snapads.com 
+0.0.0.0 Tr.snapchat.com 
+0.0.0.0 Loc.sc-jpl.com
+0.0.0.0 Storage.googleapis.com 
+0.0.0.0 Snapchat-proxy.appspot.com
 ##From https://www.reddit.com/r/pihole/comments/t7j5s1/blocking_these_snapchat_domains_has_been/
